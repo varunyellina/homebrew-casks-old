@@ -1,4 +1,4 @@
-cask 'fantastical1' do
+cask 'machider1' do
   version '1.6.7'
   sha256 'a060a91ebdcbce09a0418319e6c33a7e8586772ba2014b94b6825b9452a39455'
 
