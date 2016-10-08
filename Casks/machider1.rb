@@ -5,7 +5,6 @@ cask 'machider1' do
   url "http://dl.devmate.com/com.macpaw.MacHider/MacHider.dmg"
   name 'MacHider'
   homepage 'http://macpaw.com/support/hider/knowledgebase/machider-support'
-  license :freemium
 
   app 'MacHider.app'
 end
